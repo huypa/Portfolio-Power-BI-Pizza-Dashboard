@@ -8,11 +8,11 @@ I designed and developed an interactive **Power BI dashboard** to analyze and vi
 - **Goasl Focus:** Revenue, Product Mix, Store & Time Interval Analysis  
 - **Technical Focus:** Power Querry / DAX / Database Design
 
-*Dasboard illustration*
+### *Dasboard illustration*
 
 <img width="1852" height="1036" alt="Screenshot 2025-11-07 at 13 40 19" src="https://github.com/user-attachments/assets/3c97d416-6b2a-4c54-8454-fac13ea316a6" />
 
-*Data model*
+### *Data model*
 
 The data model follows a **snowflake schema**, where *fact_sales* serves as the central table connected to key dimensions such as *Dim_product*, *Dim_category*, *Dim_date*, and *Dim_size*. Dynamic slicers and parameter tables allow users to switch between metrics like *Total Revenue*, *Total Orders*, *Total Quantity Sold*, *Average Order Value*, and *Average Pizza per Order*.
 
