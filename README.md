@@ -51,12 +51,11 @@ The data model follows a **snowflake schema**, where *fact_sales* serves as the 
 
 ## 6. Results
 
-Delivered an **insight-driven dashboard** that enhanced:
+Delivered an **insight-driven dashboard** that support sales performance anaysis:
 - Enhanced **visibility into product and category-level performance**
 - Improved understanding of **sales distribution and order timing**
 - Enabled **data-driven optimization** for product mix and customer engagement 
-
-This dashboard provides an **intuitive, visually engaging view** of pizza sales trends and performance insights through smart, dynamic DAX and design-driven storytelling.
+*Here is the full analysis:* [Presentation](https://docs.google.com/presentation/d/1BJHbNVPa5dgBUTS5R1_e-GQ4UisEIWd_HFxfMU5uvOY/edit?slide=id.g3a2318e546d_0_26#slide=id.g3a2318e546d_0_26)  
 
 
 
