@@ -56,7 +56,7 @@ Delivered an **insight-driven dashboard** that support sales performance anaysis
 - Improved understanding of **sales distribution and order timing**
 - Enabled **data-driven optimization** for product mix and customer engagement
 
-*Here is the full analysis:* [Presentation](https://docs.google.com/presentation/d/1BJHbNVPa5dgBUTS5R1_e-GQ4UisEIWd_HFxfMU5uvOY/edit?slide=id.g3a2318e546d_0_26#slide=id.g3a2318e546d_0_26)  
+*Here is the full analysis:* [Pizza Analysis Presentation](https://docs.google.com/presentation/d/1BJHbNVPa5dgBUTS5R1_e-GQ4UisEIWd_HFxfMU5uvOY/edit?slide=id.g3a2318e546d_0_26#slide=id.g3a2318e546d_0_26)  
 
 
 
