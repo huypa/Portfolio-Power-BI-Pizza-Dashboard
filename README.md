@@ -54,7 +54,8 @@ The data model follows a **snowflake schema**, where *fact_sales* serves as the 
 Delivered an **insight-driven dashboard** that support sales performance anaysis:
 - Enhanced **visibility into product and category-level performance**
 - Improved understanding of **sales distribution and order timing**
-- Enabled **data-driven optimization** for product mix and customer engagement 
+- Enabled **data-driven optimization** for product mix and customer engagement
+
 *Here is the full analysis:* [Presentation](https://docs.google.com/presentation/d/1BJHbNVPa5dgBUTS5R1_e-GQ4UisEIWd_HFxfMU5uvOY/edit?slide=id.g3a2318e546d_0_26#slide=id.g3a2318e546d_0_26)  
 
 
