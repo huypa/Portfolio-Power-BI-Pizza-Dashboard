@@ -27,7 +27,7 @@ The data model follows a **snowflake schema**, where *fact_sales* serves as the 
 - Powered by DAX parameter logic, enabling instant switching between KPIs (Revenue, Orders, Quantity, AOV, Avg Pizza per Order).
 
 *3.3 Product & Ingredient Rankings*
-- Dynamic Top/Bottom N ranking visuals using RANKX and SELECTEDVALUE() for metric-based filtering.
+- Dynamic Top/Bottom N ranking visuals for metric-based filtering.
 - Ingredient-level charts showing correlation between total revenue and quantity sold with average reference lines.
 
 *3.4 Order Interval Distribution*
