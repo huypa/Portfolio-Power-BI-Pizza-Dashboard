@@ -8,7 +8,7 @@ I designed and developed an interactive **Power BI dashboard** to analyze and vi
 - **Goasl Focus:** Revenue, Product Mix, Store & Time Interval Analysis  
 - **Technical Focus:** Power Querry / DAX / Database Design
 
-### *Dasboard illustration*
+### *Dashboard illustration*
 
 <img width="1852" height="1036" alt="Screenshot 2025-11-07 at 13 40 19" src="https://github.com/user-attachments/assets/3c97d416-6b2a-4c54-8454-fac13ea316a6" />
 
