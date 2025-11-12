@@ -1,6 +1,9 @@
 # ☕ Portfolio – Power BI Pizza Dashboard
 ## 1. Overview
 I designed and developed an interactive **Power BI dashboard** to analyze and visualize **pizza sales performance** across categories, products, and ingredients. The dashboard highlights **revenue trends, order intervals, and product insights**, enabling users to explore top-selling items, dynamic performance rankings, and time-based behavior patterns.
+
+- **Full Dashboard:** Pizza Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODkwNzMwOTQtMzVjYi00NjM0LWE0MGMtZWQ0NjE2NTIyZDliIiwidCI6IjMyNGViYTBiLTJjNTUtNDE3NS1iMzBjLThjODNlMzZmMTE2ZCJ9)  
+
 ## 2. Project Details
 
 - **Tool:** Power BI  
