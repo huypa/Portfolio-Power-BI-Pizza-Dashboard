@@ -53,13 +53,12 @@ The data model follows a **snowflake schema**, where *fact_sales* serves as the 
 - **Hover Cards:** Show detailed breakdowns like average order value, order count, and category contribution.
 - **Drill-down:** Explore data from category level to individual product or ingredient performance.
 
-## 6. Results
+## 6. Keytake Aways
 
 - **Consistent Revenue:** Stable $15K-$17K weekly performance
-- **Clear Patterns:** Predictable peaks enable proactive planning
 - **Category Leaders:** Classic & Supreme drive 53% of total revenue
 - **Size Matters:** Large pizzas represent majority of sales
-- **Time-Driven:** 80% of revenue during lunch/dinner rush
+- **Time-Driven:** 80% of revenue during lunch/dinner rush, in which the majority of revenue happened from Mon To Fri lunch and weekends dinner.
 - **Efficient Operations:** 75% of orders completed within 16 minutes
 
 
