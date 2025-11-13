@@ -55,11 +55,12 @@ The data model follows a **snowflake schema**, where *fact_sales* serves as the 
 
 ## 6. Results
 
-Delivered an **insight-driven dashboard** that support sales performance anaysis:
-- Enhanced **visibility into product and category-level performance**
-- Improved understanding of **sales distribution and order timing**
-- Enabled **data-driven optimization** for product mix and customer engagement
-
+- **Consistent Revenue:** Stable $15K-$17K weekly performance
+- **Clear Patterns:** Predictable peaks enable proactive planning
+- **Category Leaders:** Classic & Supreme drive 53% of total revenue
+- **Size Matters:** Large pizzas represent majority of sales
+- **Time-Driven:** 80% of revenue during lunch/dinner rush
+- **Efficient Operations:** 75% of orders completed within 16 minutes
 
 
 
